@@ -1,0 +1,5 @@
+Nmap scan report for 192.168.29.101/24   
+Host is up (0.005s latency).  
+PORT    STATE SERVICE  
+21/tcp  open  ftp  
+53/tcp  open  domain
